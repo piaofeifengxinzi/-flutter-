@@ -1,5 +1,5 @@
 # picturetest
-
+如果内容引起您的不适请自动屏蔽，这个只是练手用的
 A new Flutter project with mzitu reptile.
 
 ## Getting Started
